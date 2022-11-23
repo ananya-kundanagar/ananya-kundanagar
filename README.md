@@ -27,7 +27,7 @@ Ananya Kundanagar</a></h1>
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="https://www.linkedin.com/in/ananya-kundanagar28/"><img src="" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/ananya-kundanagar28/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/></a>
 	<a href="https://github.com/ananya-kundanagar"><img src="" alt="GitHub"/></a>
 </p>
 
