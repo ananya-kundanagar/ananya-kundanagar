@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a 4th year IT engineering student at Terna engineering College,India. I Know Web Development.I am highly Intrested in Cyber Security. I am currently learning about ML and Cloud.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Tecnology+Student;4th+Year;Full+Stack+Webdeveloper;Intrested%20in%20learning%20CyberSecurity;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 
