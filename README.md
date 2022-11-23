@@ -25,7 +25,7 @@ Ananya Kundanagar</a></h1>
 
 </pre>
 <hr>
-##Languages and Tools:
+<h2><b>Languages and Tools:</h2></b>
 
 <h3>Programming Language : <h3>
 <hr>
@@ -56,7 +56,8 @@ Ananya Kundanagar</a></h1>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <hr>
-## 🤝 Connect with me
+	
+<h2><b> 🤝 Connect with me</b></h2>
 <p align="center">
 	<a href="https://www.linkedin.com/in/ananya-kundanagar28/"><img height = "20" width = "20"src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/></a>
 	<a href="https://github.com/ananya-kundanagar"><img  height = "20" width = "20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"/></a>
