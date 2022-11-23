@@ -19,6 +19,7 @@ Ananya Kundanagar</a></h1>
 🌟 Main languages: Python, JavaScript,Djano,HTML,CSS,SQL
 🚩 Interested in Cyber Security Cloud and Machine Learning
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
+
 </pre>
 <hr>
 <br/>
@@ -26,7 +27,7 @@ Ananya Kundanagar</a></h1>
 ## 🤝 Connect with me
 <p align="center">
 	<a href="ananya.kundanagar@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-red" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/ananya-kundanagar28/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/ananya-kundanagar28/"><img src="https://github.com/ShivaShirsath/ShivaShirsath/blob/master/icons/github.svg" alt="LinkedIn"/></a>
 	<a href="https://github.com/ananya-kundanagar"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
