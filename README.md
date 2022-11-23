@@ -28,6 +28,6 @@ Ananya Kundanagar</a></h1>
 ## 🤝 Connect with me
 <p align="center">
 	<a href="https://www.linkedin.com/in/ananya-kundanagar28/"><img height = "20" width = "20"src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/></a>
-	<a href="https://github.com/ananya-kundanagar"><img  height = "20" width = "20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Github-circle_%28CoreUI_Icons_v1.0.0%29.svg/2048px-Github-circle_%28CoreUI_Icons_v1.0.0%29.svg.png" alt="GitHub"/></a>
+	<a href="https://github.com/ananya-kundanagar"><img  height = "20" width = "20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"/></a>
 </p>
 
