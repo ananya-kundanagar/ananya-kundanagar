@@ -12,7 +12,7 @@ Ananya Kundanagar</a><img src = "https://raw.githubusercontent.com/TheDudeThatCo
 </a>
 <pre>
 💻 I am a self taught Full Stack Developer
-📚 I am doing Bachelors of Engineering in Information Technology from the Terna Engineering College
+📚 I am doing Bachelors of Engineering in Information Technology from Terna Engineering College
 📝 I have a strong interest in Cyber-Security , Web Development and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Machine Learning and Cyber-Security stuff
