@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ananya-kundanagar28/" target="blank">
 Ananya Kundanagar</a></h1>
-### Hi there, Ananya Kundanagar👋
+
 <!-- ![alt text] -->
 <!--
 **ananya-kundanagar/ananya-kundanagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
