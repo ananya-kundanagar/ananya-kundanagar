@@ -8,7 +8,7 @@ Ananya Kundanagar</a></h1>
 
 <hr>
 <a target="_blank" align="center">
-  <img align="right" top="700" height="200" width="200" alt="GIF" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+  <img align="right" top="700" height="150" width="200" alt="GIF" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 </a>
 <pre>
 💻 I am a self taught Full Stack Developer
