@@ -11,14 +11,13 @@ Ananya Kundanagar</a><img src = "https://raw.githubusercontent.com/TheDudeThatCo
   <img align="right"  top="500" height="200" width="200" alt="GIF" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 </a>
 <pre>
-💻 I am a self taught Full Stack Developer
-📚 I am doing Bachelors of Engineering in Information Technology from Terna Engineering College
-📝 I have a strong interest in Cyber-Security , Web Development and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Machine Learning and Cyber-Security stuff
-🌟 Main languages: Python, JavaScript,Djano,HTML,CSS,SQL
-🚩 Interested in Cyber Security Cloud and Machine Learning
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
+💻 I am a self taught Developer
+📚 I have Bachelors of Engineering in Information Technology from Terna Engineering College
+📝 I have a strong interest in Cyber-Security and Developement
+🔭 Working in Cyber-security domain in Deloitte.
+🌱 Learning about Cloud and Cyber-Security stuff
+🌟 Main languages:Java, Python, JavaScript, Djano, HTML, CSS, SQL 
+🤔 I’m currently open for: <b>Full Time opportunite</b> or a new <b>job opportunity</b>
 📫 How to reach me <b>ananya.kundanagar@gmail.com</b>
 
 
