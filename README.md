@@ -11,10 +11,10 @@ Ananya Kundanagar</a><img src = "https://raw.githubusercontent.com/TheDudeThatCo
   <img align="right"  top="500" height="200" width="200" alt="GIF" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 </a>
 <pre>
-💻 I am a self taught Developer
+💻 I am a Developer
 📚 I have done B.Tech in IT from Terna Engineering College
 📝 I have a strong interest in Cyber-Security and Developement
-🔭 Working in Cyber-security domain in Deloitte.
+🔭 Working in Cyber-security domain.
 🌟 Main languages:Java, Python, JavaScript, Djano, HTML, CSS, SQL 
 🤔 I’m currently open for: <b>Full Time SDE opportunity</b>
 
